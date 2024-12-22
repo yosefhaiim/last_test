@@ -1,9 +1,5 @@
 # TODO: עדיין ךא סיימתי את זה צריך לסדר את הפרטים הקטנים משהו עם הקובץ של הHTML שצריך לייצר
 
-# Project 5: Map Visualization
-#
-# This script creates an interactive map to visualize terror events using the Folium library.
-
 import pandas as pd
 import folium
 from folium.plugins import HeatMap

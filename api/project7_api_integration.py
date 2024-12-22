@@ -1,6 +1,3 @@
-# Project 7: Real-Time Data Integration from an External API
-#
-# This script fetches real-time data from an external API (e.g., NewsAPI) and integrates it into the existing database.
 
 import requests
 import pandas as pd

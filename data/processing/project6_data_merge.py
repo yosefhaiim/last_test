@@ -1,6 +1,3 @@
-# Project 6: Merging Additional Data
-#
-# This script merges new terror event data from an additional CSV file into the existing database.
 
 import pandas as pd
 from sqlalchemy import create_engine
